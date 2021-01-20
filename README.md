@@ -1,2 +1,8 @@
 # algorithm_study
-Study algorithm for coding test.
+
+1. 그리디
+    - 큰 수의 법칙
+    - 숫자 카드 게임
+    - 1이 될 때까지
+
+2. 구현
