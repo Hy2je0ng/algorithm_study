@@ -11,21 +11,21 @@ int main(){
 	
 	scanf("%d", &n);
 	
-	for(int i = 0; i <= n; i++){ // ½Ã 
+	for(int i = 0; i <= n; i++){ // ì‹œ 
 		
 		if(getDecimal(i) == 3 || getDigit(i) == 3){
 			result += 60 * 60;
 			continue;
 		}
 
-		for(int j = 0; j < 60; j++){ // ºÐ 
+		for(int j = 0; j < 60; j++){ // ë¶„ 
 		
 			if(getDecimal(j) == 3 || getDigit(j) == 3){
 				result += 60;
 				continue;
 			}
 					
-			for(int k = 0; k < 60; k++){ // ÃÊ 
+			for(int k = 0; k < 60; k++){ // ÃƒÃŠ 
 				
 				if(getDecimal(k) == 3 || getDigit(k) == 3){
 					result += 1;
