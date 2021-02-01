@@ -25,7 +25,7 @@ int main(){
 				continue;
 			}
 					
-			for(int k = 0; k < 60; k++){ // ÃÊ 
+			for(int k = 0; k < 60; k++){ // 
 				
 				if(getDecimal(k) == 3 || getDigit(k) == 3){
 					result += 1;
