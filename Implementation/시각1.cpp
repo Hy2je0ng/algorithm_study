@@ -13,7 +13,7 @@ int main(){
 	
 	for(int i = 0; i <= n; i++){ // 시 
 		
-		if(getDecimal(i) == 3 || getDigit(i) == 3){
+		if(getDigit(i) == 3){
 			result += 60 * 60;
 			continue;
 		}
@@ -25,7 +25,7 @@ int main(){
 				continue;
 			}
 					
-			for(int k = 0; k < 60; k++){ // 
+			for(int k = 0; k < 60; k++){ // 초
 				
 				if(getDecimal(k) == 3 || getDigit(k) == 3){
 					result += 1;
