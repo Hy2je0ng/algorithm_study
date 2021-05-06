@@ -31,16 +31,16 @@ int main(){
 		v.push_back(x);
 	}
 	
-	sort(v.begin(), v.end()); // ÀÌÁø Å½»öÀ» À§ÇØ Á¤·Ä 
+	sort(v.begin(), v.end()); // ì´ì§„ íƒìƒ‰ì„ ìœ„í•´ ì •ë ¬ 
 	
 	int result = binarySearch(v, target, 0, n-1);
 	
 	if (result == -1) {
-		printf("¿ø¼Ò°¡ Á¸ÀçÇÏÁö ¾Ê½À´Ï´Ù.\n");
-    }
-    else {
-    	printf("%d\n", result + 1);
-    }
+		printf("ì›ì†Œê°€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤.\n");
+   	}
+   	else {
+   		printf("%d\n", result + 1);
+  	}
 	
 	return 0;
 }
