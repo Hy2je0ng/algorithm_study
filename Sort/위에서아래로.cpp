@@ -4,7 +4,7 @@
 using namespace std;
 
 void selectionSort(int* data, int n){
-	// ³»¸²Â÷¼ø Á¤·Ä 
+	// ë‚´ë¦¼ì°¨ìˆœ ì •ë ¬
 	for(int i = 0; i < n-1; i++){
 		int maxIdx = i;
 		for(int j = i+1 ; j < n; j++){
