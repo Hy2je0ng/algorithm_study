@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#define MAX_VALUE 9
+#define MAX_VALUE 10
  
 using namespace std;
 
