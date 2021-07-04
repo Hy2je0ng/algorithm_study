@@ -16,7 +16,7 @@ C++ / Python
 
 2. 구현 (Implementation)
    - [상하좌우](./Implementation/상하좌우.cpp)
-   - [시각](./Implementation/시각.cpp)
+   - [시각](./Implementation/시각1.cpp)
    - [왕실의 나이트](./Implementation/왕실의나이트.cpp)
    - [게임 개발](./Implementation/게임개발.cpp)
 
@@ -33,11 +33,11 @@ C++ / Python
    - [계수정렬 (Count Sort)](./Sort/CountSort.cpp)
    - [위에서 아래로](./Sort/위에서아래로.cpp)
    - [성적이 낮은 순서로 학생 출력하기](./Sort/성적이낮은순서로학생출력하기.cpp)
-   - [두 배열의 원소 교체](./Sort/성적이낮은순서로학생출력하기.cpp)
+   - [두 배열의 원소 교체](./Sort/두배열의원소교체.cpp)
 
 5. 이진 탐색(Binary Search)
    - [부품 찾기](./Binary_Search/부품찾기.cpp)
-   - [떡볶이 떡 만들기](./Binary_Search/./Binary_Search/부품찾기.cpp)
+   - [떡볶이 떡 만들기](./Binary_Search/./Binary_Search/떡볶이떡만들기.cpp)
 
 6. 다이나믹 프로그래밍 (Dynamic Programming)
    - 1로 만들기
