@@ -21,7 +21,7 @@ int main(){
 		
 	sort(v.begin(), v.end());
 	
-	int start = 1;
+	int start = 1; 
 	int end = v.back();
 	
 	int result = 0;
@@ -33,7 +33,7 @@ int main(){
 		
 		for(int i = 0; i < n; i++){
 			if(v[i] > mid){
-				total += v[i] - mid;
+				total += v[i] - mid; // 잘랐을 때 떡의 양 계산 
 			}
 		}
 		
@@ -41,8 +41,8 @@ int main(){
 			result = mid;
 			break;
 		}
-		else if(total < m) end = mid - 1;
-		else start = mid + 1;
+		else if(total < m) end = mid - 1; // 떡의 양이 부족한 경우 더 자르기(왼쪽 부분) 
+		else start = mid + 1; // 충분한 경우 덜 자르기(오른쪽 부분) 
 	}
 	
 	printf("%d", result);
