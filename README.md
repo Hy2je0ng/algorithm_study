@@ -36,7 +36,7 @@ C++ / Python
    - [두 배열의 원소 교체](./Sort/두배열의원소교체.cpp) | [blog](https://blog.naver.com/hy2je0ng/222342172414)
 
 5. 이진 탐색(Binary Search)
-   - [부품 찾기](./Binary_Search/부품찾기.cpp)
+   - [부품 찾기](./Binary_Search/부품찾기.cpp) | [blog](https://blog.naver.com/hy2je0ng/222421276913)
    - [떡볶이 떡 만들기](./Binary_Search/떡볶이떡만들기.cpp)
 
 6. 다이나믹 프로그래밍 (Dynamic Programming)
