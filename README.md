@@ -37,7 +37,7 @@ C++ / Python
 
 5. 이진 탐색(Binary Search)
    - [부품 찾기](./Binary_Search/부품찾기.cpp) | [blog](https://blog.naver.com/hy2je0ng/222421276913)
-   - [떡볶이 떡 만들기](./Binary_Search/떡볶이떡만들기.cpp)
+   - [떡볶이 떡 만들기](./Binary_Search/떡볶이떡만들기.cpp) | [blog](https://blog.naver.com/hy2je0ng/222421378456)
 
 6. 다이나믹 프로그래밍 (Dynamic Programming)
    - 1로 만들기
