@@ -39,8 +39,3 @@ C++ / Python
    - [부품 찾기](./Binary_Search/부품찾기.cpp) | [blog](https://blog.naver.com/hy2je0ng/222421276913)
    - [떡볶이 떡 만들기](./Binary_Search/떡볶이떡만들기.cpp) | [blog](https://blog.naver.com/hy2je0ng/222421378456)
 
-6. 다이나믹 프로그래밍 (Dynamic Programming)
-   - 1로 만들기
-   - 개미 전사
-   - 바닥 공사
-   - 효율적인 화폐 구성
